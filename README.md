@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NSTLRD
-- 👀 I’m interested in build website with Angular and javascript
-- 🌱 I’m currently learning front end and backend, I like stack front end like html,css,javascript,boostrap,less etc and stack backend java,mysql,sql server, in coming
+- 👀 I’m interested in build website with react and javascript
+- 🌱 I’m currently learning front end and backend, I like stack front end like html,css,javascript,boostrap,less etc and stack backend java,mysql,sql server.
 - soon I will learn mongodb. 
 - 💞️ I’m looking to collaborate on source code, private code or whaterever kind of challenge to improve my knowlegdes.
 - 📫 How to reach me send me a gmail starlingdiaz70
