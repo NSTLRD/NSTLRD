@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **microservice**
 
-- 💬 Ask me about **React,Java,JavaScritp**
+- 💬 Ask me about **React,Java,JavaScript**
 
 - 📫 How to reach me **starlingdiaz70@gmail.com**
 
