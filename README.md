@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **starlingdiaz70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jn4flmsYiG5n3zI8jMRfbE6vHhkRTuAi/view?usp=sharing](https://drive.google.com/file/d/1jn4flmsYiG5n3zI8jMRfbE6vHhkRTuAi/view?usp=sharing)
+- 📄 Know about my experiences [starlingdiaz.com](https://www.starlingdiaz.com/)
 
 - ⚡ Fun fact **I think is funny spent time watch a old movie.**
 
