@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nstlrd&label=Profile%20views&color=0e75b6&style=flat" alt="nstlrd" /> </p>
 
-- 🌱 I’m currently learning **microservice**
+- 🌱 I’m currently learning **AI Agents and Spring AI**
 
 - 💬 Ask me about **React,Java,JavaScript**
 
